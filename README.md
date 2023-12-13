@@ -79,3 +79,8 @@ Sélection des types de véhicules (par exemple, économique, premium, etc.).
 
 16. Améliorations futures :
     * Feuille de route pour les futures fonctionnalités et améliorations.
+
+![UBER_UseCaseDiagram](https://github.com/OussamaBu/project-uber/assets/118765563/704321d6-cdaf-4b12-a015-1b86aab66d86)
+
+
+
